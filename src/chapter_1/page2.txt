@@ -3,4 +3,6 @@ The Vanishing Class
 page 2 of mu book
 
 
-some work
+some work here
+
+I edit page 2 after I commit it.
